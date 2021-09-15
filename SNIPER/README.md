@@ -17,4 +17,3 @@ L2_v_sigma.m works in tandem with sniperNW.m to create simulations of the relati
 
 meanfield.m is separate from the other files and numerically integrates the mean field equations of the SNIPER model.
 
-![\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}](https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}) 
