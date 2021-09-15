@@ -1,1 +1,1 @@
-#Saddle Node Infinite Period (SNIPER) model
+# Saddle Node Infinite Period (SNIPER) model
