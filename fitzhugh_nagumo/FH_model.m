@@ -1,4 +1,5 @@
-
+%Author: Andrew R. Phillips
+%Purpose: Simulates a network of Fitzhugh Nagumo neurons. 
 
 
 function[]= FH_model(param)
