@@ -1,7 +1,11 @@
+%Author: Andrew R. Phillips, Drexel University
+%Purpose: Integrates mean field equation for SNIPER model and plots
+%Time series of |R(t)|, the magnitude of the order parameter.
+
 function[] = mean_field(K)
 
-%close all;
-%%Program to integrate mean field equation for SNIPER model
+close all;
+
 
 
 %%Start with mixing state, |R| = 0
