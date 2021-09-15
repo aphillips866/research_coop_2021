@@ -6,4 +6,5 @@
 **Date**: September 2021
 
 This project was created over the course of six months from April 2021 to September 2021 while I worked as a research assistant within Drexel University's department of mathematics.
-The purpose of this project is to simulate a network model of Saddle Node Infinite Period (SNIPER) oscillators. All of the code contained within this repository is written in MATLAB. 
+The purpose of this project is to provide simulations of several different types of neuronal models. The types included are the Morris-lecar model, the Fitzhugh Nagumo model, and 
+the Saddle-Node Infinite Period (SNIPER) model. 
