@@ -7,7 +7,6 @@ L2_v_sigma.m requires sniperNW.m and sniper_function.m.
 *NOTE*: if running this file it is useful to disable the construction of plots
 by commenting out the line near the bottom of sniperNW.m.
 
-meanfield.m has no dependancies.
 
 ## Function
 sniperNW.m integrates a network of *N* SNIPER oscillators. It returns the L2 norm of the order parameter. It is possible to disable plots by commenting out the
