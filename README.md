@@ -1,6 +1,8 @@
 # Research COOP 2021
 **Author**: Andrew R. Phillips
 
+**Advisors**: Georgi S. Medvedev, Drexel University; Matthew S. Mizuhara, The College of New Jersey
+
 **Affiliation**: Drexel University, College of Arts and Sciences, Philadelphia PA
 
 **Date**: September 2021
