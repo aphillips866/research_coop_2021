@@ -5,6 +5,8 @@
 
 **Affiliation**: Drexel University, College of Arts and Sciences, Philadelphia PA
 
+**Funding**: National Science Foundation grant DMS 2009223 (to Georgi Medvedev)
+
 **Date**: September 2021
 
 This project was created over the course of six months from April 2021 to September 2021 while I worked as a research assistant within Drexel University's department of mathematics.
